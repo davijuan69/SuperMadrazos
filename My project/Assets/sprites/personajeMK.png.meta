@@ -1,0 +1,6422 @@
+fileFormatVersion: 2
+guid: 7037325392dba954186881ac52b506a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6633485412905495102
+    second: personajeMK_0
+  - first:
+      213: -3217781746027719999
+    second: personajeMK_1
+  - first:
+      213: 494985041952447645
+    second: personajeMK_2
+  - first:
+      213: -4738107598289770419
+    second: personajeMK_3
+  - first:
+      213: 5356615443343945026
+    second: personajeMK_4
+  - first:
+      213: -7094440150525989192
+    second: personajeMK_5
+  - first:
+      213: -1851600391870790012
+    second: personajeMK_6
+  - first:
+      213: 5022105563733091377
+    second: personajeMK_7
+  - first:
+      213: 7135486104886379557
+    second: personajeMK_8
+  - first:
+      213: 3964440049387958736
+    second: personajeMK_9
+  - first:
+      213: -2487482557475792280
+    second: personajeMK_10
+  - first:
+      213: -1485211604022479435
+    second: personajeMK_11
+  - first:
+      213: 4257466054501379712
+    second: personajeMK_12
+  - first:
+      213: 5536010802555751347
+    second: personajeMK_13
+  - first:
+      213: 2530777785798024858
+    second: personajeMK_14
+  - first:
+      213: 6906377340228533026
+    second: personajeMK_15
+  - first:
+      213: -3699041164759277191
+    second: personajeMK_16
+  - first:
+      213: -6462389122724110696
+    second: personajeMK_17
+  - first:
+      213: 1767628957500857177
+    second: personajeMK_18
+  - first:
+      213: 1877865641809539175
+    second: personajeMK_19
+  - first:
+      213: 702924624908053258
+    second: personajeMK_20
+  - first:
+      213: 77956856671310087
+    second: personajeMK_21
+  - first:
+      213: 1541619270306300125
+    second: personajeMK_22
+  - first:
+      213: -4747292559228723512
+    second: personajeMK_23
+  - first:
+      213: -3352503186572675806
+    second: personajeMK_24
+  - first:
+      213: 3290564399534388602
+    second: personajeMK_25
+  - first:
+      213: -2969224773341833228
+    second: personajeMK_26
+  - first:
+      213: -23848508491990890
+    second: personajeMK_27
+  - first:
+      213: -2251241356706369420
+    second: personajeMK_28
+  - first:
+      213: -8696820787159518343
+    second: personajeMK_29
+  - first:
+      213: 1251626747768036678
+    second: personajeMK_30
+  - first:
+      213: -2793199422898525941
+    second: personajeMK_31
+  - first:
+      213: 5285595566947349292
+    second: personajeMK_32
+  - first:
+      213: -9072917039782132224
+    second: personajeMK_33
+  - first:
+      213: 1607219950654130226
+    second: personajeMK_34
+  - first:
+      213: 5655479198828455366
+    second: personajeMK_35
+  - first:
+      213: -6430422923172729321
+    second: personajeMK_36
+  - first:
+      213: -6591260999593546021
+    second: personajeMK_37
+  - first:
+      213: 3541725103018673324
+    second: personajeMK_38
+  - first:
+      213: -7803768506091246537
+    second: personajeMK_39
+  - first:
+      213: -8235918038202132867
+    second: personajeMK_40
+  - first:
+      213: 716021176942136129
+    second: personajeMK_41
+  - first:
+      213: 5917946033797412548
+    second: personajeMK_42
+  - first:
+      213: 3616289182246905008
+    second: personajeMK_43
+  - first:
+      213: -7248983722009202110
+    second: personajeMK_44
+  - first:
+      213: 3365322725424830078
+    second: personajeMK_45
+  - first:
+      213: 4963357662992749296
+    second: personajeMK_46
+  - first:
+      213: -1994151435691775838
+    second: personajeMK_47
+  - first:
+      213: 1377522580375696661
+    second: personajeMK_48
+  - first:
+      213: 1278202457673140572
+    second: personajeMK_49
+  - first:
+      213: -7037431017744388055
+    second: personajeMK_50
+  - first:
+      213: 664982076441728374
+    second: personajeMK_51
+  - first:
+      213: 5079258422598578157
+    second: personajeMK_52
+  - first:
+      213: 1843101331414401304
+    second: personajeMK_53
+  - first:
+      213: -2703627983216136015
+    second: personajeMK_54
+  - first:
+      213: 4847370208816382364
+    second: personajeMK_55
+  - first:
+      213: 4373567928344426135
+    second: personajeMK_56
+  - first:
+      213: -8416616462235396714
+    second: personajeMK_57
+  - first:
+      213: -1830613973466101595
+    second: personajeMK_58
+  - first:
+      213: 8980124789918556422
+    second: personajeMK_59
+  - first:
+      213: 7156080184147438695
+    second: personajeMK_60
+  - first:
+      213: 4026648531922801135
+    second: personajeMK_61
+  - first:
+      213: 8083471405974309507
+    second: personajeMK_62
+  - first:
+      213: -379714248818341224
+    second: personajeMK_63
+  - first:
+      213: 853777617434629413
+    second: personajeMK_64
+  - first:
+      213: -1723971464907858113
+    second: personajeMK_65
+  - first:
+      213: 5791380401845185734
+    second: personajeMK_66
+  - first:
+      213: -6338920632121122019
+    second: personajeMK_67
+  - first:
+      213: 2274849103132818562
+    second: personajeMK_68
+  - first:
+      213: 7513900155890912628
+    second: personajeMK_69
+  - first:
+      213: 7860887208546617158
+    second: personajeMK_70
+  - first:
+      213: 2807643231243026799
+    second: personajeMK_71
+  - first:
+      213: 8451127312521763695
+    second: personajeMK_72
+  - first:
+      213: 6239061257346407675
+    second: personajeMK_73
+  - first:
+      213: -8764927863056238093
+    second: personajeMK_74
+  - first:
+      213: -1278595015893262699
+    second: personajeMK_75
+  - first:
+      213: 264149252213693813
+    second: personajeMK_76
+  - first:
+      213: -2846300459987497234
+    second: personajeMK_77
+  - first:
+      213: 626843765779076779
+    second: personajeMK_78
+  - first:
+      213: -3230476660895004741
+    second: personajeMK_79
+  - first:
+      213: -7959429914204420627
+    second: personajeMK_80
+  - first:
+      213: 6839383260392120930
+    second: personajeMK_81
+  - first:
+      213: -3299259900286664660
+    second: personajeMK_82
+  - first:
+      213: -3897403016352853255
+    second: personajeMK_83
+  - first:
+      213: -4340078605273726039
+    second: personajeMK_84
+  - first:
+      213: 8328174530536206672
+    second: personajeMK_85
+  - first:
+      213: 8756729895043246034
+    second: personajeMK_86
+  - first:
+      213: 3102663601137591871
+    second: personajeMK_87
+  - first:
+      213: -3640534700934732615
+    second: personajeMK_88
+  - first:
+      213: -1399439384829012432
+    second: personajeMK_89
+  - first:
+      213: 6411243468253574625
+    second: personajeMK_90
+  - first:
+      213: -8346846091019415838
+    second: personajeMK_91
+  - first:
+      213: -571912782382803683
+    second: personajeMK_92
+  - first:
+      213: -2836532159908548276
+    second: personajeMK_93
+  - first:
+      213: -5708394792702806773
+    second: personajeMK_94
+  - first:
+      213: -6075953096076594511
+    second: personajeMK_95
+  - first:
+      213: 3471066248306062624
+    second: personajeMK_96
+  - first:
+      213: 4390166130572522670
+    second: personajeMK_97
+  - first:
+      213: -8084802908633073891
+    second: personajeMK_98
+  - first:
+      213: -7966004245500155527
+    second: personajeMK_99
+  - first:
+      213: 4601671637173856375
+    second: personajeMK_100
+  - first:
+      213: 2520963643323765194
+    second: personajeMK_101
+  - first:
+      213: -4245015812659398570
+    second: personajeMK_102
+  - first:
+      213: -6165636180206222448
+    second: personajeMK_103
+  - first:
+      213: -7972008738339164429
+    second: personajeMK_104
+  - first:
+      213: -3848337084350704821
+    second: personajeMK_105
+  - first:
+      213: -4477518551102181559
+    second: personajeMK_106
+  - first:
+      213: 9160314903262881263
+    second: personajeMK_107
+  - first:
+      213: 1937143610710615706
+    second: personajeMK_108
+  - first:
+      213: 2717038498670217551
+    second: personajeMK_109
+  - first:
+      213: -8400782223705675034
+    second: personajeMK_110
+  - first:
+      213: -2760298532293750024
+    second: personajeMK_111
+  - first:
+      213: 509624199639455568
+    second: personajeMK_112
+  - first:
+      213: 3001199523813478439
+    second: personajeMK_113
+  - first:
+      213: 6227818359718254989
+    second: personajeMK_114
+  - first:
+      213: 5561782137710191490
+    second: personajeMK_115
+  - first:
+      213: 7409554207107618068
+    second: personajeMK_116
+  - first:
+      213: 5052383814434564905
+    second: personajeMK_117
+  - first:
+      213: 807857604457543039
+    second: personajeMK_118
+  - first:
+      213: -8494380394543482268
+    second: personajeMK_119
+  - first:
+      213: 8232678418258095776
+    second: personajeMK_120
+  - first:
+      213: -6145489275604085110
+    second: personajeMK_121
+  - first:
+      213: -3941537824127370492
+    second: personajeMK_122
+  - first:
+      213: 1675910759319670144
+    second: personajeMK_123
+  - first:
+      213: 3605162733846035797
+    second: personajeMK_124
+  - first:
+      213: -6378724164716812109
+    second: personajeMK_125
+  - first:
+      213: -5013331734708689245
+    second: personajeMK_126
+  - first:
+      213: -1165235912917014256
+    second: personajeMK_127
+  - first:
+      213: -5814756530878990930
+    second: personajeMK_128
+  - first:
+      213: 2703079385626983328
+    second: personajeMK_129
+  - first:
+      213: -6065410334918508229
+    second: personajeMK_130
+  - first:
+      213: -4349952201247248044
+    second: personajeMK_131
+  - first:
+      213: -2169170409288871944
+    second: personajeMK_132
+  - first:
+      213: -7341934981498691994
+    second: personajeMK_133
+  - first:
+      213: 1549061876991857618
+    second: personajeMK_134
+  - first:
+      213: -5688313251439943601
+    second: personajeMK_135
+  - first:
+      213: 5656278647608706112
+    second: personajeMK_136
+  - first:
+      213: 9222823381961760680
+    second: personajeMK_137
+  - first:
+      213: -190695400110650418
+    second: personajeMK_138
+  - first:
+      213: 4837874916175047099
+    second: personajeMK_139
+  - first:
+      213: 8746269479056130591
+    second: personajeMK_140
+  - first:
+      213: 3540225054793109811
+    second: personajeMK_141
+  - first:
+      213: -1963277585472475766
+    second: personajeMK_142
+  - first:
+      213: -587129418668465065
+    second: personajeMK_143
+  - first:
+      213: 6441153778779670599
+    second: personajeMK_144
+  - first:
+      213: -1263526728345301435
+    second: personajeMK_145
+  - first:
+      213: -2100670356419286448
+    second: personajeMK_146
+  - first:
+      213: -3153199495963660674
+    second: personajeMK_147
+  - first:
+      213: -2033002249996909286
+    second: personajeMK_148
+  - first:
+      213: -8343009740100381645
+    second: personajeMK_149
+  - first:
+      213: 8612510699004642900
+    second: personajeMK_150
+  - first:
+      213: -5588489168301390158
+    second: personajeMK_151
+  - first:
+      213: -1119028310361906824
+    second: personajeMK_152
+  - first:
+      213: -2603306170575618964
+    second: personajeMK_153
+  - first:
+      213: -7105664673300541146
+    second: personajeMK_154
+  - first:
+      213: 5043451278828759596
+    second: personajeMK_155
+  - first:
+      213: -2610699744058286509
+    second: personajeMK_156
+  - first:
+      213: 9167168916036216976
+    second: personajeMK_157
+  - first:
+      213: -4760971269709299625
+    second: personajeMK_158
+  - first:
+      213: 6566976312701320241
+    second: personajeMK_159
+  - first:
+      213: -7001798669541534257
+    second: personajeMK_160
+  - first:
+      213: -4801752083368064052
+    second: personajeMK_161
+  - first:
+      213: -1629548851338125422
+    second: personajeMK_162
+  - first:
+      213: -5230425893210629702
+    second: personajeMK_163
+  - first:
+      213: 719894537414218689
+    second: personajeMK_164
+  - first:
+      213: -5849615932683461116
+    second: personajeMK_165
+  - first:
+      213: -3096856649579038156
+    second: personajeMK_166
+  - first:
+      213: 2128164859581396668
+    second: personajeMK_167
+  - first:
+      213: 7989294927927960887
+    second: personajeMK_168
+  - first:
+      213: 81087219566042990
+    second: personajeMK_169
+  - first:
+      213: 6717383891392732618
+    second: personajeMK_170
+  - first:
+      213: 331274492188429376
+    second: personajeMK_171
+  - first:
+      213: -949055382740556674
+    second: personajeMK_172
+  - first:
+      213: -8418876173710740273
+    second: personajeMK_173
+  - first:
+      213: -5523199797050997968
+    second: personajeMK_174
+  - first:
+      213: 2612955569588486475
+    second: personajeMK_175
+  - first:
+      213: 3305201118481814528
+    second: personajeMK_176
+  - first:
+      213: -6762847727221538019
+    second: personajeMK_177
+  - first:
+      213: 8798829061678425168
+    second: personajeMK_178
+  - first:
+      213: 3032759137229153229
+    second: personajeMK_179
+  - first:
+      213: 6647699488885844895
+    second: personajeMK_180
+  - first:
+      213: 5854936997830172440
+    second: personajeMK_181
+  - first:
+      213: -7012089590564591870
+    second: personajeMK_182
+  - first:
+      213: 7355725304722471791
+    second: personajeMK_183
+  - first:
+      213: 6932149445230585913
+    second: personajeMK_184
+  - first:
+      213: 1432491092165812145
+    second: personajeMK_185
+  - first:
+      213: 2812282701061151037
+    second: personajeMK_186
+  - first:
+      213: -3373298550538643274
+    second: personajeMK_187
+  - first:
+      213: 5601591400649321356
+    second: personajeMK_188
+  - first:
+      213: 3303953872233487643
+    second: personajeMK_189
+  - first:
+      213: 7345201062951869161
+    second: personajeMK_190
+  - first:
+      213: -5228388727598041270
+    second: personajeMK_191
+  - first:
+      213: -904000477171570282
+    second: personajeMK_192
+  - first:
+      213: 136091908592274108
+    second: personajeMK_193
+  - first:
+      213: -3383269337347904293
+    second: personajeMK_194
+  - first:
+      213: -4865016313602545979
+    second: personajeMK_195
+  - first:
+      213: -6820630351334114755
+    second: personajeMK_196
+  - first:
+      213: -2242268425797689304
+    second: personajeMK_197
+  - first:
+      213: -7605263771322042465
+    second: personajeMK_198
+  - first:
+      213: 3984167125025623836
+    second: personajeMK_199
+  - first:
+      213: -8332601815279930409
+    second: personajeMK_200
+  - first:
+      213: 3874257765488903618
+    second: personajeMK_201
+  - first:
+      213: -3713908312737607144
+    second: personajeMK_202
+  - first:
+      213: -110397109398411338
+    second: personajeMK_203
+  - first:
+      213: 1013346720219517329
+    second: personajeMK_204
+  - first:
+      213: -4270853499389852780
+    second: personajeMK_205
+  - first:
+      213: -5750503490052808365
+    second: personajeMK_206
+  - first:
+      213: 8265606300433156943
+    second: personajeMK_207
+  - first:
+      213: -5129506672504695918
+    second: personajeMK_208
+  - first:
+      213: 5673590313994546548
+    second: personajeMK_209
+  - first:
+      213: 7732565793324261832
+    second: personajeMK_210
+  - first:
+      213: 1983911509758174921
+    second: personajeMK_211
+  - first:
+      213: 1606631729240913447
+    second: personajeMK_212
+  - first:
+      213: 5024085508215061539
+    second: personajeMK_213
+  - first:
+      213: 97329477560339637
+    second: personajeMK_214
+  - first:
+      213: 8261158634612669019
+    second: personajeMK_215
+  - first:
+      213: 1039628174174350486
+    second: personajeMK_216
+  - first:
+      213: 6289021724374074208
+    second: personajeMK_217
+  - first:
+      213: -1202355893380298516
+    second: personajeMK_218
+  - first:
+      213: -6758227257819506687
+    second: personajeMK_219
+  - first:
+      213: -6030514508286410380
+    second: personajeMK_220
+  - first:
+      213: -154116014151748383
+    second: personajeMK_221
+  - first:
+      213: 8940896030645248746
+    second: personajeMK_222
+  - first:
+      213: -6490696139700395899
+    second: personajeMK_223
+  - first:
+      213: 4406947027504691218
+    second: personajeMK_224
+  - first:
+      213: -6038992534756602537
+    second: personajeMK_225
+  - first:
+      213: 7850598782953359235
+    second: personajeMK_226
+  - first:
+      213: 4872251714219334726
+    second: personajeMK_227
+  - first:
+      213: -5033669211120621786
+    second: personajeMK_228
+  - first:
+      213: 7258611064473521618
+    second: personajeMK_229
+  - first:
+      213: 6996832804181169520
+    second: personajeMK_230
+  - first:
+      213: -2529561231038496298
+    second: personajeMK_231
+  - first:
+      213: 2017176652931530503
+    second: personajeMK_232
+  - first:
+      213: 2363310628904020733
+    second: personajeMK_233
+  - first:
+      213: 6874418663425473818
+    second: personajeMK_234
+  - first:
+      213: -4796846454681284580
+    second: personajeMK_235
+  - first:
+      213: -8984739994377223375
+    second: personajeMK_236
+  - first:
+      213: -2496761548635198899
+    second: personajeMK_237
+  - first:
+      213: 4638504424569757740
+    second: personajeMK_238
+  - first:
+      213: 8917630721591366813
+    second: personajeMK_239
+  - first:
+      213: -1099823638458613354
+    second: personajeMK_240
+  - first:
+      213: 7062808530342323091
+    second: personajeMK_241
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: personajeMK_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1476
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c55805a92021f3a0800000000000000
+      internalID: -6633485412905495102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1476
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2184fec842853d0800000000000000
+      internalID: -3217781746027719999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1476
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c15bae54a8ed600800000000000000
+      internalID: 494985041952447645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1476
+        width: 49
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48eb503e3cde3eb0800000000000000
+      internalID: -4738107598289770419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1476
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d23ea7d55865a40800000000000000
+      internalID: 5356615443343945026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1476
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be21a3654c7b8d90800000000000000
+      internalID: -7094440150525989192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1476
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4864198f04bcd46e0800000000000000
+      internalID: -1851600391870790012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1476
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134e2d6e66a12b540800000000000000
+      internalID: 5022105563733091377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_8
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1476
+        width: 46
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5240d759ec6560360800000000000000
+      internalID: 7135486104886379557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1476
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1f91d6835840730800000000000000
+      internalID: 3964440049387958736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1476
+        width: 46
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86adca01bcfaa7dd0800000000000000
+      internalID: -2487482557475792280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1476
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5b3f54ae7736be0800000000000000
+      internalID: -1485211604022479435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_12
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1476
+        width: 48
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ea6ddc1de851b30800000000000000
+      internalID: 4257466054501379712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_13
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1476
+        width: 41
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb8f0f6e7cd3dc40800000000000000
+      internalID: 5536010802555751347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_14
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1476
+        width: 41
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ed0ffccf02f1320800000000000000
+      internalID: 2530777785798024858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_15
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1476
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bf021799168df50800000000000000
+      internalID: 6906377340228533026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_16
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1476
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971e9f4b8ad5aacc0800000000000000
+      internalID: -3699041164759277191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_17
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1476
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e5ea3055bf056a0800000000000000
+      internalID: -6462389122724110696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_18
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1476
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b588aeb21e78810800000000000000
+      internalID: 1767628957500857177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1347
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760f7f31ad48f0a10800000000000000
+      internalID: 1877865641809539175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1347
+        width: 49
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0be48bd83a41c900800000000000000
+      internalID: 702924624908053258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1347
+        width: 49
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70113bd1955f41100800000000000000
+      internalID: 77956856671310087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1347
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd00189fe8ee46510800000000000000
+      internalID: 1541619270306300125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_23
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1347
+        width: 48
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce1152d19a3e1eb0800000000000000
+      internalID: -4747292559228723512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_24
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1347
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22578f73d148971d0800000000000000
+      internalID: -3352503186572675806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_25
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1347
+        width: 49
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a753bc023ee6aad20800000000000000
+      internalID: 3290564399534388602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_26
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1347
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f79baedcc13bc6d0800000000000000
+      internalID: -2969224773341833228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_27
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1347
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69879ea68e54baff0800000000000000
+      internalID: -23848508491990890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_28
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1347
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47039d5e9ebf1c0e0800000000000000
+      internalID: -2251241356706369420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_29
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1347
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973bf12629fae4780800000000000000
+      internalID: -8696820787159518343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_30
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1347
+        width: 43
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d571c45ebae5110800000000000000
+      internalID: 1251626747768036678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_31
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1347
+        width: 42
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09ae438cef8c39d0800000000000000
+      internalID: -2793199422898525941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_32
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1347
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23b642f9253a5940800000000000000
+      internalID: 5285595566947349292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_33
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1347
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006823fc506861280800000000000000
+      internalID: -9072917039782132224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_34
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1347
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23809aa970efd4610800000000000000
+      internalID: 1607219950654130226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_35
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1347
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5e7c80e5c4c7e40800000000000000
+      internalID: 5655479198828455366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_36
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1347
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ea2c4db6c82c6a0800000000000000
+      internalID: -6430422923172729321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_37
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1347
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde2759fa032784a0800000000000000
+      internalID: -6591260999593546021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_38
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1347
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca40381673cb62130800000000000000
+      internalID: 3541725103018673324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_39
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1347
+        width: 46
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cec0dc3e173b390800000000000000
+      internalID: -7803768506091246537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_40
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1347
+        width: 43
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76dab51e2424bd80800000000000000
+      internalID: -8235918038202132867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_41
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1347
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b0b4f7771dfe900800000000000000
+      internalID: 716021176942136129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_42
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1347
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c63d682094c02250800000000000000
+      internalID: 5917946033797412548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1231
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b42ae0f9d3af2230800000000000000
+      internalID: 3616289182246905008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1231
+        width: 57
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2427d0b26bf666b90800000000000000
+      internalID: -7248983722009202110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_45
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1231
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e761f73403704be20800000000000000
+      internalID: 3365322725424830078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_46
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1231
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f255eb5f7361e440800000000000000
+      internalID: 4963357662992749296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_47
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1231
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8a14fa5d95354e0800000000000000
+      internalID: -1994151435691775838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_48
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1231
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5157f590d71fd1310800000000000000
+      internalID: 1377522580375696661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_49
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1231
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5983a0fc561db110800000000000000
+      internalID: 1278202457673140572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_50
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1231
+        width: 57
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920b70876c5065e90800000000000000
+      internalID: -7037431017744388055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_51
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1117
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6759f40ecad7a3900800000000000000
+      internalID: 664982076441728374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_52
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1117
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def2661df962d7640800000000000000
+      internalID: 5079258422598578157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_53
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1117
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811410055e2049910800000000000000
+      internalID: 1843101331414401304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_54
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1117
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0b8977ca8ca7ad0800000000000000
+      internalID: -2703627983216136015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_55
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1117
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91cf4fb581554340800000000000000
+      internalID: 4847370208816382364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_56
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1117
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796b202dbd802bc30800000000000000
+      internalID: 4373567928344426135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_57
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1117
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69511c5bbeb223b80800000000000000
+      internalID: -8416616462235396714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_58
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1117
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8cfa64a4a5896e0800000000000000
+      internalID: -1830613973466101595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_59
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1117
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60166cdeaefcf9c70800000000000000
+      internalID: 8980124789918556422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_60
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1117
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ce15053018f4360800000000000000
+      internalID: 7156080184147438695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_61
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1117
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe15b94718781e730800000000000000
+      internalID: 4026648531922801135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_62
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1117
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a40296a624e2070800000000000000
+      internalID: 8083471405974309507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_63
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1095
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a470b07ebfabaf0800000000000000
+      internalID: -379714248818341224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_64
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1002
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525de54383a39db00800000000000000
+      internalID: 853777617434629413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_65
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1002
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fd14f26193318e0800000000000000
+      internalID: -1723971464907858113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_66
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1002
+        width: 37
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc242b9acd1f5050800000000000000
+      internalID: 5791380401845185734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1002
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13a6072541a708a0800000000000000
+      internalID: -6338920632121122019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_68
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1002
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cf8d5e433e19f10800000000000000
+      internalID: 2274849103132818562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_69
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1002
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d41a5a16cb64860800000000000000
+      internalID: 7513900155890912628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_70
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1002
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64745d4744b771d60800000000000000
+      internalID: 7860887208546617158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_71
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1002
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61454ea4a0c6f620800000000000000
+      internalID: 2807643231243026799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_72
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1002
+        width: 37
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b1676c38f684570800000000000000
+      internalID: 8451127312521763695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_73
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1002
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcd8085829959650800000000000000
+      internalID: 6239061257346407675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_74
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1002
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9fb901c88bc5680800000000000000
+      internalID: -8764927863056238093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_75
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1002
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ed81a7b94814ee0800000000000000
+      internalID: -1278595015893262699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_76
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1002
+        width: 50
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dd1e968527aa300800000000000000
+      internalID: 264149252213693813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_77
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1002
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee0a6edfc8ef78d0800000000000000
+      internalID: -2846300459987497234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_78
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1041
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba61ee4751ff2b800800000000000000
+      internalID: 626843765779076779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_79
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 887
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7c92cb79a0b23d0800000000000000
+      internalID: -3230476660895004741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_80
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 887
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de54a35f9ac6a8190800000000000000
+      internalID: -7959429914204420627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_81
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 887
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262ec66b6de5aee50800000000000000
+      internalID: 6839383260392120930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_82
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 887
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2009b5d99ca632d0800000000000000
+      internalID: -3299259900286664660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_83
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 887
+        width: 45
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f290cf1b94a9e9c0800000000000000
+      internalID: -3897403016352853255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_84
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 887
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a30363d081f4c3c0800000000000000
+      internalID: -4340078605273726039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_85
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 887
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051f0186c9e939370800000000000000
+      internalID: 8328174530536206672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_86
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 887
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7a814c177268970800000000000000
+      internalID: 8756729895043246034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_87
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 887
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36275b4b10ee0b20800000000000000
+      internalID: 3102663601137591871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_88
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 887
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b46d465af83a7dc0800000000000000
+      internalID: -3640534700934732615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_89
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 887
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03653964b41349ce0800000000000000
+      internalID: -1399439384829012432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_90
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 887
+        width: 78
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e53cc557ff49f850800000000000000
+      internalID: 6411243468253574625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_91
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 887
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee0ee524bb0a2c80800000000000000
+      internalID: -8346846091019415838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_92
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 887
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d155193ca582018f0800000000000000
+      internalID: -571912782382803683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_93
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 887
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41fda6770d92a8d0800000000000000
+      internalID: -2836532159908548276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_94
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 887
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05724f2e25b7c0b0800000000000000
+      internalID: -5708394792702806773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_95
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 753
+        width: 48
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b27b64d9d0edaba0800000000000000
+      internalID: -6075953096076594511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_96
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 753
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0257122cc54bb2030800000000000000
+      internalID: 3471066248306062624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_97
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 753
+        width: 71
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4f9bde5d00dec30800000000000000
+      internalID: 4390166130572522670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_98
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 753
+        width: 44
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1771e7f6920dcf80800000000000000
+      internalID: -8084802908633073891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_99
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 753
+        width: 41
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979a5bb2851137190800000000000000
+      internalID: -7966004245500155527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_100
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 753
+        width: 55
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778ecba29fb6cdf30800000000000000
+      internalID: 4601671637173856375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_101
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 753
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1dcf3b3134cf220800000000000000
+      internalID: 2520963643323765194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_102
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 753
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65835840c9ca615c0800000000000000
+      internalID: -4245015812659398570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_103
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 753
+        width: 40
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0930380af824f6aa0800000000000000
+      internalID: -6165636180206222448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_104
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 753
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3feebfc3a4cbd5190800000000000000
+      internalID: -7972008738339164429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_105
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 753
+        width: 92
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b435057afc5f79ac0800000000000000
+      internalID: -3848337084350704821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_106
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 753
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f2556c998acd1c0800000000000000
+      internalID: -4477518551102181559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_107
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 753
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe563bffed9ff1f70800000000000000
+      internalID: 9160314903262881263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_108
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 753
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96e25bb9dd12ea10800000000000000
+      internalID: 1937143610710615706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_109
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 753
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f498c4a7e1cd4b520800000000000000
+      internalID: 2717038498670217551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_110
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 634
+        width: 48
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea6b98a31d6a6b80800000000000000
+      internalID: -8400782223705675034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_111
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 634
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2599c0c1371b9d0800000000000000
+      internalID: -2760298532293750024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_112
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 634
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057d37c628c821700800000000000000
+      internalID: 509624199639455568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_113
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 634
+        width: 46
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72059fcd01766a920800000000000000
+      internalID: 3001199523813478439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_114
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 634
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8999a04dc7ad6650800000000000000
+      internalID: 6227818359718254989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_115
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 634
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283245cf26b6f2d40800000000000000
+      internalID: 5561782137710191490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_116
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 634
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41596aa3b4604d660800000000000000
+      internalID: 7409554207107618068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_117
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 634
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b2e408f4cad1640800000000000000
+      internalID: 5052383814434564905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_118
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 634
+        width: 37
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f753ac60636163b00800000000000000
+      internalID: 807857604457543039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_119
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 634
+        width: 31
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a713c4906ed1a80800000000000000
+      internalID: -8494380394543482268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_120
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 634
+        width: 40
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae6c4e1769504270800000000000000
+      internalID: 8232678418258095776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_121
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 634
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8655a46016d6baa0800000000000000
+      internalID: -6145489275604085110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_122
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 634
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b3f1c6b38dc49c0800000000000000
+      internalID: -3941537824127370492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_123
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 634
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d018cc4f7024710800000000000000
+      internalID: 1675910759319670144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_124
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 634
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d7e5cc76c180230800000000000000
+      internalID: 3605162733846035797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_125
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 634
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8aad90b283a77a0800000000000000
+      internalID: -6378724164716812109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_126
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 634
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6ee7b59511d6ab0800000000000000
+      internalID: -5013331734708689245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_127
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 634
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019ad036c1044dfe0800000000000000
+      internalID: -1165235912917014256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_128
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 634
+        width: 43
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea533993eb5dd4fa0800000000000000
+      internalID: -5814756530878990930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_129
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 634
+        width: 41
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab3af33164438520800000000000000
+      internalID: 2703079385626983328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_130
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 634
+        width: 40
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b310332bf6553dba0800000000000000
+      internalID: -6065410334918508229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_131
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 634
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451babe158dd1a3c0800000000000000
+      internalID: -4349952201247248044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_132
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 634
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff4c09610f85e1e0800000000000000
+      internalID: -2169170409288871944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_133
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 634
+        width: 49
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e91c798053c1a90800000000000000
+      internalID: -7341934981498691994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_134
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 634
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d31331e19f5f7510800000000000000
+      internalID: 1549061876991857618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_135
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 634
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4066cc5c3d0f01b0800000000000000
+      internalID: -5688313251439943601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_136
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 634
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044085536732f7e40800000000000000
+      internalID: 5656278647608706112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_137
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 634
+        width: 54
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af5ff3500d0eff70800000000000000
+      internalID: 9222823381961760680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_138
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 634
+        width: 44
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb8a104b838a5df0800000000000000
+      internalID: -190695400110650418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_139
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 526
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9e266aa95932340800000000000000
+      internalID: 4837874916175047099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_140
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 526
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f124bf060cdf06970800000000000000
+      internalID: 8746269479056130591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_141
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 526
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33191ef2ee7612130800000000000000
+      internalID: 3540225054793109811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_142
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 526
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d2d6a107901c4e0800000000000000
+      internalID: -1963277585472475766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_143
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 526
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754a51b87e81ad7f0800000000000000
+      internalID: -587129418668465065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_144
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 526
+        width: 91
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748c3df2c33936950800000000000000
+      internalID: 6441153778779670599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_145
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 526
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e44c0922d077ee0800000000000000
+      internalID: -1263526728345301435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_146
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 526
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a6f6fc07be8d2e0800000000000000
+      internalID: -2100670356419286448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_147
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 526
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e2529c3c59d34d0800000000000000
+      internalID: -3153199495963660674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_148
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 526
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a154d55993359c3e0800000000000000
+      internalID: -2033002249996909286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_149
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 526
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33451b338dca73c80800000000000000
+      internalID: -8343009740100381645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_150
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 526
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4564c6689d8c58770800000000000000
+      internalID: 8612510699004642900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_151
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 431
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b60744e5b2b172b0800000000000000
+      internalID: -5588489168301390158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_152
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 431
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871e54b3ea96870f0800000000000000
+      internalID: -1119028310361906824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_153
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 431
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cf14da4d23fdbd0800000000000000
+      internalID: -2603306170575618964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_154
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 431
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62111e680ab936d90800000000000000
+      internalID: -7105664673300541146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_155
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 431
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ae39c7730fdf540800000000000000
+      internalID: 5043451278828759596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_156
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 431
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ed3343a6ee4cbd0800000000000000
+      internalID: -2610699744058286509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_157
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 431
+        width: 91
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09867543f83583f70800000000000000
+      internalID: 9167168916036216976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_158
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 431
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750032bdad1adedb0800000000000000
+      internalID: -4760971269709299625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_159
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 431
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c77feb926922b50800000000000000
+      internalID: 6566976312701320241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_160
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 431
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc59c29053d94de90800000000000000
+      internalID: -7001798669541534257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_161
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 431
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbca53cbefbc5db0800000000000000
+      internalID: -4801752083368064052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_162
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 431
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f58d314fda269e0800000000000000
+      internalID: -1629548851338125422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_163
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 318
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9dc23bc5bc967b0800000000000000
+      internalID: -5230425893210629702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_164
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 318
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3915284449df900800000000000000
+      internalID: 719894537414218689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_165
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 318
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40edfe34d4df1dea0800000000000000
+      internalID: -5849615932683461116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_166
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 318
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43af889f841c505d0800000000000000
+      internalID: -3096856649579038156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_167
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 318
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb671de0aa2c88d10800000000000000
+      internalID: 2128164859581396668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_168
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 318
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735e9f8686dafde60800000000000000
+      internalID: 7989294927927960887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_169
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 318
+        width: 49
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fde068564102100800000000000000
+      internalID: 81087219566042990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_170
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 290
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd156a1f01f83d50800000000000000
+      internalID: 6717383891392732618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_171
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 288
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c0a0e356ce89400800000000000000
+      internalID: 331274492188429376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_172
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 284
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74a39f582744d2f0800000000000000
+      internalID: -949055382740556674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_173
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 284
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4b8f1a9b42a2b80800000000000000
+      internalID: -8418876173710740273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_174
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 288
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03304493c07a953b0800000000000000
+      internalID: -5523199797050997968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_175
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 288
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41433b1f35134420800000000000000
+      internalID: 2612955569588486475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_176
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 284
+        width: 101
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0041552d7ee6edd20800000000000000
+      internalID: 3305201118481814528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_177
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 284
+        width: 112
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1307ecb2d98522a0800000000000000
+      internalID: -6762847727221538019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_178
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 290
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054e9b4d968bb1a70800000000000000
+      internalID: 8798829061678425168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_179
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 288
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc32dd7fd56861a20800000000000000
+      internalID: 3032759137229153229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_180
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 284
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b2690d67f514c50800000000000000
+      internalID: 6647699488885844895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_181
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 284
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f95f1cd2ae04150800000000000000
+      internalID: 5854936997830172440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_182
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 288
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207ee254bad00be90800000000000000
+      internalID: -7012089590564591870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_183
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 290
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bb55d3139c41660800000000000000
+      internalID: 7355725304722471791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_184
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 284
+        width: 101
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938e3ec3131f33060800000000000000
+      internalID: 6932149445230585913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_185
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 284
+        width: 112
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf54740f0b31e310800000000000000
+      internalID: 1432491092165812145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_186
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 291
+        width: 162
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39d9bc673c370720800000000000000
+      internalID: 2812282701061151037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_187
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 294
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8ddcd37d2af21d0800000000000000
+      internalID: -3373298550538643274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_188
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 294
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8be59c43b9dcbd40800000000000000
+      internalID: 5601591400649321356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_189
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 41
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dd0ccaa800add20800000000000000
+      internalID: 3303953872233487643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_190
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea511143756fe560800000000000000
+      internalID: 7345201062951869161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_191
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 127
+        width: 42
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47bcd747280177b0800000000000000
+      internalID: -5228388727598041270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_192
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 127
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699a7690b585473f0800000000000000
+      internalID: -904000477171570282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_193
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 127
+        width: 40
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba827caede73e100800000000000000
+      internalID: 136091908592274108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_194
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 127
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc28e786763c01d0800000000000000
+      internalID: -3383269337347904293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_195
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 127
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c66d31507dfb7cb0800000000000000
+      internalID: -4865016313602545979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_196
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 127
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a7b7c25d04851a0800000000000000
+      internalID: -6820630351334114755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_197
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 127
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820214d2fbcd1e0e0800000000000000
+      internalID: -2242268425797689304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_198
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 127
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97b337f4eca47690800000000000000
+      internalID: -7605263771322042465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_199
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 127
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f01f424ea9a4730800000000000000
+      internalID: 3984167125025623836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_200
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 127
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3f6790cc6ac5c80800000000000000
+      internalID: -8332601815279930409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_201
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 127
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5c34839e024c530800000000000000
+      internalID: 3874257765488903618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_202
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 127
+        width: 31
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81297e2111c857cc0800000000000000
+      internalID: -3713908312737607144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_203
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 136
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7e316f96ac77ef0800000000000000
+      internalID: -110397109398411338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_204
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 175
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191ddfc1971201e00800000000000000
+      internalID: 1013346720219517329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_205
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 163
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4934229ce51eab4c0800000000000000
+      internalID: -4270853499389852780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_206
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 152
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35122c31b8b1230b0800000000000000
+      internalID: -5750503490052808365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_207
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 127
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b8c8e132555b270800000000000000
+      internalID: 8265606300433156943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_208
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 127
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2939c50dbd450d8b0800000000000000
+      internalID: -5129506672504695918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_209
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 131
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dedb2a454acbe40800000000000000
+      internalID: 5673590313994546548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_210
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 127
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1ed61ce979f4b60800000000000000
+      internalID: 7732565793324261832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_211
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 138
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6e1f4c105488b10800000000000000
+      internalID: 1983911509758174921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_212
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 127
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726b642ab07eb4610800000000000000
+      internalID: 1606631729240913447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_213
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 127
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cb856a62329b540800000000000000
+      internalID: 5024085508215061539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_214
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 41
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc8828e4a8c95100800000000000000
+      internalID: 97329477560339637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_215
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 19
+        width: 37
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a3d39320885a270800000000000000
+      internalID: 8261158634612669019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_216
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 19
+        width: 34
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c6624f0508d6e00800000000000000
+      internalID: 1039628174174350486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_217
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 19
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063080a00f7174750800000000000000
+      internalID: 6289021724374074208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_218
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 19
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce848717faf505fe0800000000000000
+      internalID: -1202355893380298516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_219
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 19
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1085e4a9d14f532a0800000000000000
+      internalID: -6758227257819506687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_220
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 19
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471cfb8710f4f4ca0800000000000000
+      internalID: -6030514508286410380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_221
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 19
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4394a3d487cddf0800000000000000
+      internalID: -154116014151748383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_222
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 19
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae26f48a191741c70800000000000000
+      internalID: 8940896030645248746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_223
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580a828004a6ce5a0800000000000000
+      internalID: -6490696139700395899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_224
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2187166f8fe982d30800000000000000
+      internalID: 4406947027504691218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_225
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 20
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dc89c1940313ca0800000000000000
+      internalID: -6038992534756602537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_226
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 20
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3878c04bffde2fc60800000000000000
+      internalID: 7850598782953359235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_227
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 26
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cd45aae17bd9340800000000000000
+      internalID: 4872251714219334726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_228
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627a552a580d42ab0800000000000000
+      internalID: -5033669211120621786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_229
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd0aac2e44cbb460800000000000000
+      internalID: 7258611064473521618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_230
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 20
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075d4065d5eb91160800000000000000
+      internalID: 6996832804181169520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_231
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 26
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1c95a667135ecd0800000000000000
+      internalID: -2529561231038496298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_232
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 26
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ff1377a737efb10800000000000000
+      internalID: 2017176652931530503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_233
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaaab1ee7a2cc020800000000000000
+      internalID: 2363310628904020733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_234
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d7ac62a57d66f50800000000000000
+      internalID: 6874418663425473818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_235
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1051a2709d2e6db0800000000000000
+      internalID: -4796846454681284580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_236
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13386eb049acf4380800000000000000
+      internalID: -8984739994377223375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_237
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4aaeb49998b95dd0800000000000000
+      internalID: -2496761548635198899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_238
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20ee83c2374f5040800000000000000
+      internalID: 4638504424569757740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_239
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d945096c4e9c1cb70800000000000000
+      internalID: 8917630721591366813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_240
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691c81a5a34acb0f0800000000000000
+      internalID: -1099823638458613354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeMK_241
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39327af10f2240260800000000000000
+      internalID: 7062808530342323091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      personajeMK_0: -6633485412905495102
+      personajeMK_1: -3217781746027719999
+      personajeMK_10: -2487482557475792280
+      personajeMK_100: 4601671637173856375
+      personajeMK_101: 2520963643323765194
+      personajeMK_102: -4245015812659398570
+      personajeMK_103: -6165636180206222448
+      personajeMK_104: -7972008738339164429
+      personajeMK_105: -3848337084350704821
+      personajeMK_106: -4477518551102181559
+      personajeMK_107: 9160314903262881263
+      personajeMK_108: 1937143610710615706
+      personajeMK_109: 2717038498670217551
+      personajeMK_11: -1485211604022479435
+      personajeMK_110: -8400782223705675034
+      personajeMK_111: -2760298532293750024
+      personajeMK_112: 509624199639455568
+      personajeMK_113: 3001199523813478439
+      personajeMK_114: 6227818359718254989
+      personajeMK_115: 5561782137710191490
+      personajeMK_116: 7409554207107618068
+      personajeMK_117: 5052383814434564905
+      personajeMK_118: 807857604457543039
+      personajeMK_119: -8494380394543482268
+      personajeMK_12: 4257466054501379712
+      personajeMK_120: 8232678418258095776
+      personajeMK_121: -6145489275604085110
+      personajeMK_122: -3941537824127370492
+      personajeMK_123: 1675910759319670144
+      personajeMK_124: 3605162733846035797
+      personajeMK_125: -6378724164716812109
+      personajeMK_126: -5013331734708689245
+      personajeMK_127: -1165235912917014256
+      personajeMK_128: -5814756530878990930
+      personajeMK_129: 2703079385626983328
+      personajeMK_13: 5536010802555751347
+      personajeMK_130: -6065410334918508229
+      personajeMK_131: -4349952201247248044
+      personajeMK_132: -2169170409288871944
+      personajeMK_133: -7341934981498691994
+      personajeMK_134: 1549061876991857618
+      personajeMK_135: -5688313251439943601
+      personajeMK_136: 5656278647608706112
+      personajeMK_137: 9222823381961760680
+      personajeMK_138: -190695400110650418
+      personajeMK_139: 4837874916175047099
+      personajeMK_14: 2530777785798024858
+      personajeMK_140: 8746269479056130591
+      personajeMK_141: 3540225054793109811
+      personajeMK_142: -1963277585472475766
+      personajeMK_143: -587129418668465065
+      personajeMK_144: 6441153778779670599
+      personajeMK_145: -1263526728345301435
+      personajeMK_146: -2100670356419286448
+      personajeMK_147: -3153199495963660674
+      personajeMK_148: -2033002249996909286
+      personajeMK_149: -8343009740100381645
+      personajeMK_15: 6906377340228533026
+      personajeMK_150: 8612510699004642900
+      personajeMK_151: -5588489168301390158
+      personajeMK_152: -1119028310361906824
+      personajeMK_153: -2603306170575618964
+      personajeMK_154: -7105664673300541146
+      personajeMK_155: 5043451278828759596
+      personajeMK_156: -2610699744058286509
+      personajeMK_157: 9167168916036216976
+      personajeMK_158: -4760971269709299625
+      personajeMK_159: 6566976312701320241
+      personajeMK_16: -3699041164759277191
+      personajeMK_160: -7001798669541534257
+      personajeMK_161: -4801752083368064052
+      personajeMK_162: -1629548851338125422
+      personajeMK_163: -5230425893210629702
+      personajeMK_164: 719894537414218689
+      personajeMK_165: -5849615932683461116
+      personajeMK_166: -3096856649579038156
+      personajeMK_167: 2128164859581396668
+      personajeMK_168: 7989294927927960887
+      personajeMK_169: 81087219566042990
+      personajeMK_17: -6462389122724110696
+      personajeMK_170: 6717383891392732618
+      personajeMK_171: 331274492188429376
+      personajeMK_172: -949055382740556674
+      personajeMK_173: -8418876173710740273
+      personajeMK_174: -5523199797050997968
+      personajeMK_175: 2612955569588486475
+      personajeMK_176: 3305201118481814528
+      personajeMK_177: -6762847727221538019
+      personajeMK_178: 8798829061678425168
+      personajeMK_179: 3032759137229153229
+      personajeMK_18: 1767628957500857177
+      personajeMK_180: 6647699488885844895
+      personajeMK_181: 5854936997830172440
+      personajeMK_182: -7012089590564591870
+      personajeMK_183: 7355725304722471791
+      personajeMK_184: 6932149445230585913
+      personajeMK_185: 1432491092165812145
+      personajeMK_186: 2812282701061151037
+      personajeMK_187: -3373298550538643274
+      personajeMK_188: 5601591400649321356
+      personajeMK_189: 3303953872233487643
+      personajeMK_19: 1877865641809539175
+      personajeMK_190: 7345201062951869161
+      personajeMK_191: -5228388727598041270
+      personajeMK_192: -904000477171570282
+      personajeMK_193: 136091908592274108
+      personajeMK_194: -3383269337347904293
+      personajeMK_195: -4865016313602545979
+      personajeMK_196: -6820630351334114755
+      personajeMK_197: -2242268425797689304
+      personajeMK_198: -7605263771322042465
+      personajeMK_199: 3984167125025623836
+      personajeMK_2: 494985041952447645
+      personajeMK_20: 702924624908053258
+      personajeMK_200: -8332601815279930409
+      personajeMK_201: 3874257765488903618
+      personajeMK_202: -3713908312737607144
+      personajeMK_203: -110397109398411338
+      personajeMK_204: 1013346720219517329
+      personajeMK_205: -4270853499389852780
+      personajeMK_206: -5750503490052808365
+      personajeMK_207: 8265606300433156943
+      personajeMK_208: -5129506672504695918
+      personajeMK_209: 5673590313994546548
+      personajeMK_21: 77956856671310087
+      personajeMK_210: 7732565793324261832
+      personajeMK_211: 1983911509758174921
+      personajeMK_212: 1606631729240913447
+      personajeMK_213: 5024085508215061539
+      personajeMK_214: 97329477560339637
+      personajeMK_215: 8261158634612669019
+      personajeMK_216: 1039628174174350486
+      personajeMK_217: 6289021724374074208
+      personajeMK_218: -1202355893380298516
+      personajeMK_219: -6758227257819506687
+      personajeMK_22: 1541619270306300125
+      personajeMK_220: -6030514508286410380
+      personajeMK_221: -154116014151748383
+      personajeMK_222: 8940896030645248746
+      personajeMK_223: -6490696139700395899
+      personajeMK_224: 4406947027504691218
+      personajeMK_225: -6038992534756602537
+      personajeMK_226: 7850598782953359235
+      personajeMK_227: 4872251714219334726
+      personajeMK_228: -5033669211120621786
+      personajeMK_229: 7258611064473521618
+      personajeMK_23: -4747292559228723512
+      personajeMK_230: 6996832804181169520
+      personajeMK_231: -2529561231038496298
+      personajeMK_232: 2017176652931530503
+      personajeMK_233: 2363310628904020733
+      personajeMK_234: 6874418663425473818
+      personajeMK_235: -4796846454681284580
+      personajeMK_236: -8984739994377223375
+      personajeMK_237: -2496761548635198899
+      personajeMK_238: 4638504424569757740
+      personajeMK_239: 8917630721591366813
+      personajeMK_24: -3352503186572675806
+      personajeMK_240: -1099823638458613354
+      personajeMK_241: 7062808530342323091
+      personajeMK_25: 3290564399534388602
+      personajeMK_26: -2969224773341833228
+      personajeMK_27: -23848508491990890
+      personajeMK_28: -2251241356706369420
+      personajeMK_29: -8696820787159518343
+      personajeMK_3: -4738107598289770419
+      personajeMK_30: 1251626747768036678
+      personajeMK_31: -2793199422898525941
+      personajeMK_32: 5285595566947349292
+      personajeMK_33: -9072917039782132224
+      personajeMK_34: 1607219950654130226
+      personajeMK_35: 5655479198828455366
+      personajeMK_36: -6430422923172729321
+      personajeMK_37: -6591260999593546021
+      personajeMK_38: 3541725103018673324
+      personajeMK_39: -7803768506091246537
+      personajeMK_4: 5356615443343945026
+      personajeMK_40: -8235918038202132867
+      personajeMK_41: 716021176942136129
+      personajeMK_42: 5917946033797412548
+      personajeMK_43: 3616289182246905008
+      personajeMK_44: -7248983722009202110
+      personajeMK_45: 3365322725424830078
+      personajeMK_46: 4963357662992749296
+      personajeMK_47: -1994151435691775838
+      personajeMK_48: 1377522580375696661
+      personajeMK_49: 1278202457673140572
+      personajeMK_5: -7094440150525989192
+      personajeMK_50: -7037431017744388055
+      personajeMK_51: 664982076441728374
+      personajeMK_52: 5079258422598578157
+      personajeMK_53: 1843101331414401304
+      personajeMK_54: -2703627983216136015
+      personajeMK_55: 4847370208816382364
+      personajeMK_56: 4373567928344426135
+      personajeMK_57: -8416616462235396714
+      personajeMK_58: -1830613973466101595
+      personajeMK_59: 8980124789918556422
+      personajeMK_6: -1851600391870790012
+      personajeMK_60: 7156080184147438695
+      personajeMK_61: 4026648531922801135
+      personajeMK_62: 8083471405974309507
+      personajeMK_63: -379714248818341224
+      personajeMK_64: 853777617434629413
+      personajeMK_65: -1723971464907858113
+      personajeMK_66: 5791380401845185734
+      personajeMK_67: -6338920632121122019
+      personajeMK_68: 2274849103132818562
+      personajeMK_69: 7513900155890912628
+      personajeMK_7: 5022105563733091377
+      personajeMK_70: 7860887208546617158
+      personajeMK_71: 2807643231243026799
+      personajeMK_72: 8451127312521763695
+      personajeMK_73: 6239061257346407675
+      personajeMK_74: -8764927863056238093
+      personajeMK_75: -1278595015893262699
+      personajeMK_76: 264149252213693813
+      personajeMK_77: -2846300459987497234
+      personajeMK_78: 626843765779076779
+      personajeMK_79: -3230476660895004741
+      personajeMK_8: 7135486104886379557
+      personajeMK_80: -7959429914204420627
+      personajeMK_81: 6839383260392120930
+      personajeMK_82: -3299259900286664660
+      personajeMK_83: -3897403016352853255
+      personajeMK_84: -4340078605273726039
+      personajeMK_85: 8328174530536206672
+      personajeMK_86: 8756729895043246034
+      personajeMK_87: 3102663601137591871
+      personajeMK_88: -3640534700934732615
+      personajeMK_89: -1399439384829012432
+      personajeMK_9: 3964440049387958736
+      personajeMK_90: 6411243468253574625
+      personajeMK_91: -8346846091019415838
+      personajeMK_92: -571912782382803683
+      personajeMK_93: -2836532159908548276
+      personajeMK_94: -5708394792702806773
+      personajeMK_95: -6075953096076594511
+      personajeMK_96: 3471066248306062624
+      personajeMK_97: 4390166130572522670
+      personajeMK_98: -8084802908633073891
+      personajeMK_99: -7966004245500155527
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
