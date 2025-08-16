@@ -131,6 +131,7 @@ GameObject:
   - component: {fileID: 401638501}
   - component: {fileID: 401638500}
   - component: {fileID: 401638499}
+  - component: {fileID: 401638503}
   m_Layer: 0
   m_Name: personaje
   m_TagString: Untagged
@@ -281,6 +282,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &401638503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 401638498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c25044a441213f41bd4819df9c768e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidad: 5
+  salto: 5
+  enSuelo: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
