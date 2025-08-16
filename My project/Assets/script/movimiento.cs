@@ -9,11 +9,13 @@ public class movimiento : MonoBehaviour{
     public float distanciaRaycast = 1.2f;
     public LayerMask capaSuelo;
     private Vector3 escalaOriginal;
+    private Animator animator;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        escalaOriginal = transform.localScale; 
+        escalaOriginal = transform.localScale;
+        animator = GetComponent<Animator>(); 
     }
 
     void Update()
@@ -23,7 +25,7 @@ public class movimiento : MonoBehaviour{
 
         DetectarSuelo();
         GirarPersonaje();
-
+        ActualizarAnimaciones();
         //if(enSuelo) {
         //Debug.Log("Está en el suelo");
         //} else {
@@ -33,6 +35,13 @@ public class movimiento : MonoBehaviour{
         if(Input.GetKeyDown(KeyCode.W) && enSuelo){
             saltar();
         }
+    }
+
+    void ActualizarAnimaciones()
+    {
+    // Pasar valores al Animator
+    animator.SetFloat("Velocidad", Mathf.Abs(movimientoHorizontal));
+    animator.SetBool("EnSuelo", enSuelo);
     }
 
     void FixedUpdate(){
