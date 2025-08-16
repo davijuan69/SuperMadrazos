@@ -8,10 +8,12 @@ public class movimiento : MonoBehaviour{
     private float movimientoHorizontal;
     public float distanciaRaycast = 1.2f;
     public LayerMask capaSuelo;
+    private Vector3 escalaOriginal;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        escalaOriginal = transform.localScale; 
     }
 
     void Update()
@@ -20,6 +22,7 @@ public class movimiento : MonoBehaviour{
         //float movimientoVertical = Input.GetAxis("Vertical");
 
         DetectarSuelo();
+        GirarPersonaje();
 
         //if(enSuelo) {
         //Debug.Log("Está en el suelo");
@@ -52,4 +55,16 @@ public class movimiento : MonoBehaviour{
     void saltar(){
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, salto);
     }
+
+    void GirarPersonaje()
+{
+    if (movimientoHorizontal > 0)
+    {
+        transform.localScale = escalaOriginal;
+    }
+    else if (movimientoHorizontal < 0)
+    {
+        transform.localScale = new Vector3(-escalaOriginal.x, escalaOriginal.y, escalaOriginal.z);
+    }
+}
 }
